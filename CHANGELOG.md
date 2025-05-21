@@ -1,3 +1,9 @@
+## [5.1.32](https://github.com/1024pix/stylelint-config/compare/v5.1.31...v5.1.32) (2025-05-21)
+
+### :arrow_up: Montée de version
+
+- [#91](https://github.com/1024pix/stylelint-config/pull/91) Update Node.js to v20.19.2
+
 ## [5.1.31](https://github.com/1024pix/stylelint-config/compare/v5.1.30...v5.1.31) (2025-05-12)
 
 ### :arrow_up: Montée de version
