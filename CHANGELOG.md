@@ -1,3 +1,9 @@
+## [5.1.36](https://github.com/1024pix/stylelint-config/compare/v5.1.35...v5.1.36) (2025-09-03)
+
+### :arrow_up: Montée de version
+
+- [#101](https://github.com/1024pix/stylelint-config/pull/101) Update actions/checkout action to v5 (workflows)
+
 ## [5.1.35](https://github.com/1024pix/stylelint-config/compare/v5.1.34...v5.1.35) (2025-08-25)
 
 ### :arrow_up: Montée de version
