@@ -1,3 +1,9 @@
+## [5.2.1](https://github.com/1024pix/stylelint-config/compare/v5.2.0...v5.2.1) (2026-06-05)
+
+### :arrow_up: Montée de version
+
+- [#114](https://github.com/1024pix/stylelint-config/pull/114) Update actions/setup-node action to v6 (workflows)
+
 ## 5.2.0 (2025-12-16)
 
 - [BUMP] Lock file maintenance (dossier racine) ([1ced575](https://github.com/1024pix/stylelint-config/commit/1ced575))
