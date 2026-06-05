@@ -1,3 +1,9 @@
+## [5.2.4](https://github.com/1024pix/stylelint-config/compare/v5.2.3...v5.2.4) (2026-06-05)
+
+### :building_construction: Tech
+
+- [#19](https://github.com/1024pix/stylelint-config/pull/19) Mise à jour de stylelint en v16
+
 ## [5.2.3](https://github.com/1024pix/stylelint-config/compare/v5.2.2...v5.2.3) (2026-06-05)
 
 ### :arrow_up: Montée de version
