@@ -1,3 +1,9 @@
+## [5.2.7](https://github.com/1024pix/stylelint-config/compare/v5.2.6...v5.2.7) (2026-06-24)
+
+### :arrow_up: Montée de version
+
+- [#136](https://github.com/1024pix/stylelint-config/pull/136) Update node
+
 ## [5.2.6](https://github.com/1024pix/stylelint-config/compare/v5.2.5...v5.2.6) (2026-06-22)
 
 ### :arrow_up: Montée de version
