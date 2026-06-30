@@ -1,3 +1,9 @@
+## [5.2.8](https://github.com/1024pix/stylelint-config/compare/v5.2.7...v5.2.8) (2026-06-30)
+
+### :arrow_up: Montée de version
+
+- [#138](https://github.com/1024pix/stylelint-config/pull/138) Update Node.js to v24.18.0
+
 ## [5.2.7](https://github.com/1024pix/stylelint-config/compare/v5.2.6...v5.2.7) (2026-06-24)
 
 ### :arrow_up: Montée de version
