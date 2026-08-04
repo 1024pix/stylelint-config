@@ -1,3 +1,9 @@
+## [5.2.13](https://github.com/1024pix/stylelint-config/compare/v5.2.12...v5.2.13) (2026-08-04)
+
+### :arrow_up: Montée de version
+
+- [#137](https://github.com/1024pix/stylelint-config/pull/137) Update actions/checkout action to v7 (workflows)
+
 ## [5.2.12](https://github.com/1024pix/stylelint-config/compare/v5.2.11...v5.2.12) (2026-08-04)
 
 ### :arrow_up: Montée de version
