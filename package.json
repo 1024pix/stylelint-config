@@ -1,6 +1,6 @@
 {
   "name": "@1024pix/stylelint-config",
-  "version": "5.2.15",
+  "version": "5.2.16",
   "description": "Shared Pix Stylelint config",
   "engines": {
     "node": "^20 || ^22 || ^24"

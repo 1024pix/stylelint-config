@@ -1,3 +1,9 @@
+## [5.2.16](https://github.com/1024pix/stylelint-config/compare/v5.2.15...v5.2.16) (2026-08-31)
+
+### :arrow_up: Montée de version
+
+- [#147](https://github.com/1024pix/stylelint-config/pull/147) Pin dependencies
+
 ## [5.2.15](https://github.com/1024pix/stylelint-config/compare/v5.2.14...v5.2.15) (2026-08-25)
 
 ### :arrow_up: Montée de version
