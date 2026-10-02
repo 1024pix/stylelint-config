@@ -1,3 +1,9 @@
+## [5.2.17](https://github.com/1024pix/stylelint-config/compare/v5.2.16...v5.2.17) (2026-10-02)
+
+### :arrow_up: Montée de version
+
+- [#150](https://github.com/1024pix/stylelint-config/pull/150) Update 1024pix/pix-actions digest to b4d1020
+
 ## [5.2.16](https://github.com/1024pix/stylelint-config/compare/v5.2.15...v5.2.16) (2026-08-31)
 
 ### :arrow_up: Montée de version
