@@ -1,3 +1,9 @@
+## [5.2.18](https://github.com/1024pix/stylelint-config/compare/v5.2.17...v5.2.18) (2026-10-12)
+
+### :building_construction: Tech
+
+- [#152](https://github.com/1024pix/stylelint-config/pull/152) Update renovate configuration to use js-lib config
+
 ## [5.2.17](https://github.com/1024pix/stylelint-config/compare/v5.2.16...v5.2.17) (2026-10-02)
 
 ### :arrow_up: Montée de version
