@@ -1,3 +1,9 @@
+## [5.2.22](https://github.com/1024pix/stylelint-config/compare/v5.2.21...v5.2.22) (2026-10-16)
+
+### :arrow_up: Montée de version
+
+- [#156](https://github.com/1024pix/stylelint-config/pull/156) Update actions/setup-node digest to 949feb2 (workflows)
+
 ## [5.2.21](https://github.com/1024pix/stylelint-config/compare/v5.2.20...v5.2.21) (2026-10-12)
 
 ### :arrow_up: Montée de version
