@@ -1,3 +1,9 @@
+## [5.2.23](https://github.com/1024pix/stylelint-config/compare/v5.2.22...v5.2.23) (2026-10-19)
+
+### :arrow_up: Montée de version
+
+- [#157](https://github.com/1024pix/stylelint-config/pull/157) Update dependency prettier to v3.9.10 (dossier racine)
+
 ## [5.2.22](https://github.com/1024pix/stylelint-config/compare/v5.2.21...v5.2.22) (2026-10-16)
 
 ### :arrow_up: Montée de version
