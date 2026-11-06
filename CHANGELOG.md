@@ -1,3 +1,9 @@
+## [5.2.28](https://github.com/1024pix/stylelint-config/compare/v5.2.27...v5.2.28) (2026-11-06)
+
+### :arrow_up: Montée de version
+
+- [#163](https://github.com/1024pix/stylelint-config/pull/163) Update 1024pix/pix-actions digest to 44ba0bb (workflows)
+
 ## [5.2.27](https://github.com/1024pix/stylelint-config/compare/v5.2.26...v5.2.27) (2026-11-03)
 
 ### :arrow_up: Montée de version
