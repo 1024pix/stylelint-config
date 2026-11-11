@@ -1,3 +1,9 @@
+## [5.2.29](https://github.com/1024pix/stylelint-config/compare/v5.2.28...v5.2.29) (2026-11-11)
+
+### :arrow_up: Montée de version
+
+- [#164](https://github.com/1024pix/stylelint-config/pull/164) Update dependency stylelint to v18 (dossier racine)
+
 ## [5.2.28](https://github.com/1024pix/stylelint-config/compare/v5.2.27...v5.2.28) (2026-11-06)
 
 ### :arrow_up: Montée de version
