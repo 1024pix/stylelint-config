@@ -3,7 +3,7 @@
   "version": "5.2.29",
   "description": "Shared Pix Stylelint config",
   "engines": {
-    "node": "^20 || ^22 || ^24"
+    "node": "^20 || ^22 || ^24 || ^26.0.0"
   },
   "main": "index.js",
   "scripts": {
