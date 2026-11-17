@@ -1,3 +1,9 @@
+## [5.2.31](https://github.com/1024pix/stylelint-config/compare/v5.2.30...v5.2.31) (2026-11-17)
+
+### :arrow_up: Montée de version
+
+- [#165](https://github.com/1024pix/stylelint-config/pull/165) Update dependency stylelint-config-standard-scss to v18 (dossier racine)
+
 ## [5.2.30](https://github.com/1024pix/stylelint-config/compare/v5.2.29...v5.2.30) (2026-11-12)
 
 ### :arrow_up: Montée de version
