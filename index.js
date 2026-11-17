@@ -1,9 +1,11 @@
+const propertiesOrder = require('./properties-order');
+
 module.exports = {
-  extends: [
-    'stylelint-config-standard-scss',
-    '@1024pix/stylelint-config-rational-order',
-  ],
+  extends: ['stylelint-config-standard-scss'],
+  plugins: ['stylelint-order'],
   rules: {
+    'order/properties-order': [propertiesOrder],
+    'property-no-unknown': [true, { ignoreProperties: ['composes'] }],
     'at-rule-no-unknown': null,
     'scss/at-rule-no-unknown': true,
     'color-no-hex': [
