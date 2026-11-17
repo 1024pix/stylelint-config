@@ -1,3 +1,9 @@
+# [6.0.0](https://github.com/1024pix/stylelint-config/compare/v5.2.31...v6.0.0) (2026-11-17)
+
+### :boom: BREAKING CHANGE
+
+- [#166](https://github.com/1024pix/stylelint-config/pull/166) Utiliser notre propre config stylelint-order
+
 ## [5.2.31](https://github.com/1024pix/stylelint-config/compare/v5.2.30...v5.2.31) (2026-11-17)
 
 ### :arrow_up: Montée de version
