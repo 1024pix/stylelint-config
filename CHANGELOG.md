@@ -1,3 +1,9 @@
+## [6.0.1](https://github.com/1024pix/stylelint-config/compare/v6.0.0...v6.0.1) (2026-11-18)
+
+### :arrow_up: Montée de version
+
+- [#167](https://github.com/1024pix/stylelint-config/pull/167) Update Node.js to v26.13.1
+
 # [6.0.0](https://github.com/1024pix/stylelint-config/compare/v5.2.31...v6.0.0) (2026-11-17)
 
 ### :boom: BREAKING CHANGE
