@@ -1,3 +1,9 @@
+## [6.0.2](https://github.com/1024pix/stylelint-config/compare/v6.0.1...v6.0.2) (2026-11-23)
+
+### :arrow_up: Montée de version
+
+- [#168](https://github.com/1024pix/stylelint-config/pull/168) Update dependency prettier to v3.10.1 (root)
+
 ## [6.0.1](https://github.com/1024pix/stylelint-config/compare/v6.0.0...v6.0.1) (2026-11-18)
 
 ### :arrow_up: Montée de version
